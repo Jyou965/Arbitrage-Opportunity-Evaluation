@@ -10,11 +10,11 @@ This project leverages python 3.7 with the following packages:
 
 * [pandas](https://pandas.pydata.org/docs/) - an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.
 
-* [path library](https://docs.python.org/3/library/pathlib.html) - For utilizing filesystem paths with semantics appropriate for different operating systems.
+* [path library](https://docs.python.org/3/library/pathlib.html) - for utilizing filesystem paths with semantics appropriate for different operating systems.
 
 * [numpy](https://numpy.org/doc/) - a Python library that provides a multidimensional array object, various derived objects (such as masked arrays and matrices), and an assortment of routines for fast operations on arrays, including mathematical, logical, shape manipulation, sorting, selecting, I/O, discrete Fourier transforms, basic linear algebra, basic statistical operations, random simulation and much more.
 
-* [%matplotlib](https://matplotlib.org/) - A a comprehensive library for creating static, animated, and interactive visualizations in Python.
+* [%matplotlib](https://matplotlib.org/) - a a comprehensive library for creating static, animated, and interactive visualizations in Python.
 
 ---
 
